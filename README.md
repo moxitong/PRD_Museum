@@ -136,3 +136,18 @@
 
 2.展览品的相关信息朗读（语音合成API 阿里云）
 
+- 输入：展览品信息、喜欢的声音
+
+![清明上河图](https://gitee.com/NFUNM066/first/raw/master/%E6%B8%85%E6%98%8E%E4%B8%8A%E6%B2%B3%E5%9B%BE.png)
+
+- 输出：语音朗读文件
+
+![语音合成](https://gitee.com/NFUNM066/first/raw/master/%E8%AF%AD%E9%9F%B3%E5%90%88%E6%88%90.png)
+
+3.需求帮助警报提示（危险行为识别API 百度云）
+
+- 输入：监控录像片段
+
+![摔倒](https://gitee.com/NFUNM066/first/raw/master/%E6%91%94%E5%80%92.jpg)
+
+- 输出：单人场景，识别4类常见危险行为，包括：情绪性指人、摔倒、激烈抱怨、砸东西。
